@@ -22,9 +22,9 @@ Computer Science
 
 ## Project
 2023  
-[SSAFY(EnjoyTrip)]()  
+[EnjoyTrip(SSAFY)](https://github.com/vovo-2/EnjoyTrip)  
 2022  
-[한이음ICT멘토링공모전](https://github.com/seo-Ireu/singmul-won)  
+[싱물원(한이음ICT멘토링공모전)](https://github.com/seo-Ireu/singmul-won)  
 [식몰](https://github.com/mohyerolo/plantmall_boot)  
 2021  
 [TheLastHue](https://github.com/seo-Ireu/theLastHue)  
