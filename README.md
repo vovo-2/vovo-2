@@ -21,6 +21,8 @@ Computer Science
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ## Project
+2024
+[Cardian(SSAFY)- ing...](http://cardian.kro.kr/)
 2023  
 [EnjoyTrip(SSAFY)](https://github.com/vovo-2/EnjoyTrip)  
 2022  
