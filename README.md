@@ -1,28 +1,58 @@
 # [Notion Portfolio](https://lsh1045101.notion.site/Lim-So-Hyun-713c38cd2309491691e3e70d87b61cbb?pvs=4)
 
+## Hi there 👋
+풀스택 개발자로 성장하기 위해 노력하는 개발자 임소현입니다.  
+협업을 위한 컨벤션, 일정 관리을 잘 지키는 개발자로 성장하기 위해 끊임없이 노력합니다.  
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=73A9AD&height=150&section=header&text=vovo&fontSize=70&fontColor=73A9AD&animation=blink&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
-  
-### Hi there 👋
 ## 💻Major
-Computer Science
-## 📚 Stacks
+🎓동덕여자대학교 컴퓨터학과 2018.03 ~ 2023.02  
+Computer Science  
 
+## ⌛ History  
+2023.07 ~ 2024.06 삼성 청년 SW 아카데미 10기 수료중  
+2023.01 ~ 2023.03 OOO 인턴십(풀스택 개발, 회계 리포트 제작)  
+2021.01 ~ 2022.02 NPC(교내 게임 개발 동아리)  
+
+## 🛠 Stacks
+recent(최근 3개월 동안 사용했던 스택입니다.)  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+
+etc.  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ## Project
-2024  
-[Cardian(SSAFY)-ing...](http://cardian.kro.kr/)  
+<b>[Cardian](http://cardian.kro.kr/)  </b>  
+2024.01 ~ 2024.02(약 7주)  
+소비내역에 따른 카드 활용 서비스  
+
+<b>주요 기능</b>
+- 카드 이용 내역 및 혜택 조회
+- 매장 별 혜택 검색
+- 카테고리별 통계(저번달 비교)
+- 연말정산
+  
+<b>사용 기술스택</b>  
+<b>FE</b>  
+React, typescript, tailwindCSS, vite  
+기타: axios, zustand, react-router-dom, chart.js, react-icons  
+
+<b>BE</b>  
+SpringBoot, Java17, JPA, MySQL, MariaDB  
+기타: lombok  
+
+담당: FE  
+- 피그마 UI 설계
+- 카테고리별 통계 및 이용내역 기능 개발
+- 전체 메뉴 기능 개발
+- 라우팅 개발  
+
 2023  
 [EnjoyTrip(SSAFY)](https://github.com/vovo-2/EnjoyTrip)  
 2022  
