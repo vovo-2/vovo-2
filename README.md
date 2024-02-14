@@ -30,49 +30,16 @@ etc.
 
 
 ## Project
-<b>[Cardian](http://cardian.kro.kr/) - 진행중 </b>  
+### <b>[Cardian](http://cardian.kro.kr/) - 진행중 </b>  
 2024.01 ~ 2024.02(약 7주)  
-소비내역에 따른 카드 활용 서비스  
-
-<b>주요 기능</b>
-- 식물 등록 및 온도, 습도 관리  
-- 식물 관련 커뮤니티  
-- 식물 뽐내기(좋아요)와 AI를 활용한 적정온도, 습도 도출
-- 식물 식물일지(피드)  
-  
-<b>사용 기술스택</b>  
-<b>FE</b>  
-Flutter, Dart
-기타: dio, provider...  
-
-<b>IoT, BE</b>  
-C, php, MySQL
-기타: Fritzing, tinkercard ...  
-
-<b>AI</b>
-python, php
-기타: PyTorch  
-
-담당: FE 및 DB
-- 유
-- 카테고리별 통계 및 이용내역 기능 개발
-- 전체 메뉴 기능 개발
-- 라우팅 개발  
-
-2023  
-[EnjoyTrip(SSAFY)](https://github.com/vovo-2/EnjoyTrip)  
-
-2022  
-<b>[싱물원](https://github.com/seo-Ireu/singmul-won) - 한이음ICT멘토링공모전👑</b>  
-2022.02 ~ 2022.11(약 9개월)  
-IoT와 앱을 활용한 맞춤형 반려식물 관리 플랫폼  
+소비내역에 따른 카드 활용 서비스
 
 <b>주요 기능</b>
 - 카드 이용 내역 및 혜택 조회
 - 매장 별 혜택 검색
 - 카테고리별 통계(저번달 비교)
 - 연말정산
-  
+
 <b>사용 기술스택</b>  
 <b>FE</b>  
 React, typescript, tailwindCSS, vite  
@@ -87,8 +54,83 @@ SpringBoot, Java17, JPA, MySQL, MariaDB
 - 카테고리별 통계 및 이용내역 기능 개발
 - 전체 메뉴 기능 개발
 - 라우팅 개발
-  
-[식몰](https://github.com/mohyerolo/plantmall_boot)  
-2021  
-[TheLastHue](https://github.com/seo-Ireu/theLastHue)  
 
+---
+
+2023  
+### [EnjoyTrip(SSAFY)](https://github.com/vovo-2/EnjoyTrip)  
+
+---
+
+2022  
+### <b>[싱물원](https://github.com/seo-Ireu/singmul-won) - 한이음ICT멘토링공모전👑</b>  
+2022.02 ~ 2022.11(약 9개월)  
+IoT와 앱을 활용한 맞춤형 반려식물 관리 플랫폼  
+
+<b>주요 기능</b>  
+- 식물 등록 및 온도, 습도 관리  
+- 식물 관련 커뮤니티  
+- 식물 뽐내기(좋아요)와 AI를 활용한 적정온도, 습도 도출
+- 식물 식물일지(피드)
+
+<b>사용 기술스택</b>  
+<b>FE</b>  
+Flutter, Dart  
+기타: dio, provider...  
+
+<b>IoT, BE</b>  
+C, php, MySQL  
+기타: Fritzing, tinkercard ...  
+
+<b>AI</b>  
+python, php  
+기타: PyTorch  
+
+<b>담당</b>  
+FE 및 DB
+- DB ERD 설계 및 API 개발 
+- 커뮤니티 기능, 식물 뽐내기 기능 개발  
+- Material 3를 이용한 UI 구현  
+  
+
+### <b>[식몰](https://github.com/mohyerolo/plantmall_boot)  </b>  
+2022.05 ~ 2022.06(약 1개월)  
+Spring Boot 기반 식물 판매 웹사이트  
+
+<b>주요 기능</b>  
+- 로그인 및 회원가입
+- 상품 검색
+- 상품 등록, 수정, 삭제
+- 장바구니 기능, 구매 기능
+- 펀딩 기능
+
+<b>사용 기술스택</b>  
+<b>FE</b>  
+Thymeleaf, javascript  
+
+<b>BE</b>  
+SpringBoot, java11, myBatis  
+기타: lombok, SQL Developer  
+
+
+<b>담당</b>  
+BE 및 FE
+- 공동구매 기능 개발  
+- 회원 관리 기능 및 구매 내역 기능 개발
+
+---
+
+2021  
+### <b>[TheLastHue](https://github.com/seo-Ireu/theLastHue)</b>  
+2021.01 ~2021.02(약 1개월)  
+무채색이 된 주인공이 색을 찾아나가는 컨셉의 어드벤처 게임  
+
+<b>사용 기술스택</b>  
+Corona SDK, Lua
+
+<b>담당</b>   
+- 미니게임3 개발
+    - 화살표 방향키를 통해 로르(주인공)을 움직여 바구니에 빨간색 조각 10개를 담는다.
+    - 빨간색 조각을 5개 이상 모으면 게임 클리어
+    - 단, 숲더미를 담게 된다면 게임 오버
+- 스테이지 상태 관리(진행도에 따른 스테이지별 화면 관리 및 애니메이션 관리)
