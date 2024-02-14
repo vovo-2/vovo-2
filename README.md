@@ -30,9 +30,42 @@ etc.
 
 
 ## Project
-<b>[Cardian](http://cardian.kro.kr/)  </b>  
+<b>[Cardian](http://cardian.kro.kr/) - 진행중 </b>  
 2024.01 ~ 2024.02(약 7주)  
 소비내역에 따른 카드 활용 서비스  
+
+<b>주요 기능</b>
+- 식물 등록 및 온도, 습도 관리  
+- 식물 관련 커뮤니티  
+- 식물 뽐내기(좋아요)와 AI를 활용한 적정온도, 습도 도출
+- 식물 식물일지(피드)  
+  
+<b>사용 기술스택</b>  
+<b>FE</b>  
+Flutter, Dart
+기타: dio, provider...  
+
+<b>IoT, BE</b>  
+C, php, MySQL
+기타: Fritzing, tinkercard ...  
+
+<b>AI</b>
+python, php
+기타: PyTorch  
+
+담당: FE 및 DB
+- 유
+- 카테고리별 통계 및 이용내역 기능 개발
+- 전체 메뉴 기능 개발
+- 라우팅 개발  
+
+2023  
+[EnjoyTrip(SSAFY)](https://github.com/vovo-2/EnjoyTrip)  
+
+2022  
+<b>[싱물원](https://github.com/seo-Ireu/singmul-won) - 한이음ICT멘토링공모전👑</b>  
+2022.02 ~ 2022.11(약 9개월)  
+IoT와 앱을 활용한 맞춤형 반려식물 관리 플랫폼  
 
 <b>주요 기능</b>
 - 카드 이용 내역 및 혜택 조회
@@ -53,12 +86,8 @@ SpringBoot, Java17, JPA, MySQL, MariaDB
 - 피그마 UI 설계
 - 카테고리별 통계 및 이용내역 기능 개발
 - 전체 메뉴 기능 개발
-- 라우팅 개발  
-
-2023  
-[EnjoyTrip(SSAFY)](https://github.com/vovo-2/EnjoyTrip)  
-2022  
-[싱물원(한이음ICT멘토링공모전)](https://github.com/seo-Ireu/singmul-won)  
+- 라우팅 개발
+  
 [식몰](https://github.com/mohyerolo/plantmall_boot)  
 2021  
 [TheLastHue](https://github.com/seo-Ireu/theLastHue)  
