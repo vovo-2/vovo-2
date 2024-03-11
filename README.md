@@ -1,3 +1,5 @@
+# [Notion Portfolio](https://lsh1045101.notion.site/Lim-So-Hyun-713c38cd2309491691e3e70d87b61cbb?pvs=4)
+
 ## Hi there 👋
 함께 할 수 있는 풀스택 개발자로 성장하기 위해 노력하는 임소현입니다.  
 협업을 위해 컨벤션과 일정 관리를 잘 지키기 위해 노력합니다.  
