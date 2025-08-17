@@ -34,6 +34,6 @@
 |---|---|---|
 |2024.02 ~ 2024.04|[Ideal Maker](https://github.com/vovo-2/ideal-maker.git)|당신의 이상형을 그려보세요: AI 이상형 제조기|
 |2024.01 ~ 2024.02|[Cardian](https://github.com/vovo-2/cardian)|이용 내역 기반 카드 활용 추천 서비스|
+|2022.05 ~ 2022.06|[식몰](https://github.com/mohyerolo/plantmall_boot)|Spring Boot 기반 식물 판매 웹사이트|
 |2022.02 ~ 2022.11|[싱물원](https://github.com/seo-Ireu/singmul-won)|IoT와 앱을 활용한 맞춤형 반려식물 관리 플랫폼- 한이음ICT멘토링공모전👑|
-|2023.08 ~ 2023.09|[식몰](https://github.com/mohyerolo/plantmall_boot)|Spring Boot 기반 식물 판매 웹사이트|
 |2021.01 ~ 2021.02|[TheLastHue](https://github.com/seo-Ireu/theLastHue)|무채색이 된 주인공이 색을 찾아나가는 컨셉의 어드벤처 게임|
